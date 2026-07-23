@@ -85,3 +85,22 @@ print("Squares:", nums ** 2)
 print("Sum of squares:", np.sum(nums ** 2))
 print("Average:", nums.mean())
 print("Even numbers only:", nums[nums % 2 == 0])
+
+print("RESHAPING ARRAYS")
+numbers = np.arange(1, 13)
+
+print("Original Array:")
+print(numbers)
+reshaped = numbers.reshape(3, 4)
+print("\nReshaped Array (3x4):",reshaped)
+
+print("\n" + "=" * 50)
+print("8. CONCATENATING ARRAYS")
+print("=" * 50)
+
+arr1 = np.array([1, 2, 3])
+arr2 = np.array([4, 5, 6])
+combined = np.concatenate((arr1, arr2))
+print("Array 1:", arr1)
+print("Array 2:", arr2)
+print("Combined Array:", combined)
