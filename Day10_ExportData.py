@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv("D:\example\online_shoppers_intention.csv")   # Replace with your file name if different
+df = pd.read_csv("online_shoppers_intention.csv")   # Replace with your file name if different
 
 # Display dataset information
 print("Dataset Information")
