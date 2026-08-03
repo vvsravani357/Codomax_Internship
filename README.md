@@ -76,7 +76,7 @@ Tasks performed:
 ![Average Product Related Pages](AverageProductRelatedPages.png)
 
 ### Age vs Insurance Charges
-![Age vs Insurance Charges](age_vs_insurance_charges.png)
+![Age vs Insurance Charges](age_vs_insurance.png)
 
 ### Gender Distribution
 ![Gender Distribution](gender_distribution.png)
