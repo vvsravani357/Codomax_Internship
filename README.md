@@ -1,8 +1,8 @@
-# Data Science Internship Project
+# 📊 Data Science Internship Project
 
-## 📌 Overview
+## 📌 Project Overview
 
-This repository contains my work completed during a 14-Day Data Science Internship. The project demonstrates data analysis, data cleaning, visualization, and data export using Python.
+This repository contains all the work completed during my **14-Day Data Science Internship**. Throughout the internship, I learned and implemented data analysis, data cleaning, exploratory data analysis (EDA), data visualization, and data export using Python and its data science libraries.
 
 ## 🛠️ Tools & Technologies
 
@@ -11,28 +11,30 @@ This repository contains my work completed during a 14-Day Data Science Internsh
 - NumPy
 - Matplotlib
 - VS Code
+- Jupyter Notebook
 - GitHub
 
 ## 📂 Datasets Used
 
 ### 1. Insurance Dataset
-This dataset was used for:
+Tasks performed:
 - Data Cleaning
 - Data Filtering
-- Data Analysis
+- Exploratory Data Analysis (EDA)
 - Data Visualization
 - Data Export
 
 ### 2. Online Shoppers Intention Dataset
-This dataset was used for:
+Tasks performed:
 - Data Cleaning
+- Missing Value Handling
 - Data Analysis
 - Data Visualization
-- Exporting the cleaned dataset
+- Exporting Cleaned Dataset
 
-## 📁 Files Included
+## 📁 Repository Contents
 
-### Python Files
+### 🐍 Python Files
 - Day_1_Codomax.py
 - Day_2_PythonBasics.py
 - Day3_NumPyTasks.py
@@ -44,38 +46,71 @@ This dataset was used for:
 - Day9_Dashboard.py
 - Day10_ExportData.py
 
-### Datasets
+### 📓 Notebook
+- Final_Project.ipynb
+
+### 📄 Datasets
 - insurance.csv
 - insurance_filtered.csv
 - online_shoppers_intention.csv
 - online_shoppers_cleaned.csv
 
-### Charts
-- Region Distribution
-- Gender Distribution
-- Age vs Insurance Charges
-- Visitors by Month
+## 📊 Visualizations
 
-## 📊 Key Features
+### Revenue Distribution
+![Revenue Distribution](RevenueDistribution.png)
 
-- Data Cleaning
+### Revenue by Visitor Type
+![Revenue by Visitor Type](RevenuebyVisitorType.png)
+
+### Weekend Visits
+![Weekend Visits](WeekendVisits.png)
+
+### Visitors by Month
+![Visitors by Month](visitors_by_month.png)
+
+### Average Bounce Rate by Month
+![Average Bounce Rate by Month](AverageBounceRatebyMonth.png)
+
+### Average Product Related Pages
+![Average Product Related Pages](AverageProductRelatedPages.png)
+
+### Age vs Insurance Charges
+![Age vs Insurance Charges](age_vs_insurance_charges.png)
+
+### Gender Distribution
+![Gender Distribution](gender_distribution.png)
+
+### Region Distribution
+![Region Distribution](region_distribution.png)
+
+## 🎯 Key Features
+
+- Data Cleaning & Preprocessing
 - Missing Value Handling
 - Data Filtering
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Exporting Processed Data
+- Dataset Export
+- GitHub Project Documentation
 
-## 🎯 Learning Outcomes
+## 📚 Learning Outcomes
 
-Through this internship, I gained hands-on experience in:
+During this internship, I gained practical experience in:
+
 - Python Programming
 - NumPy
 - Pandas
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
 - Data Visualization using Matplotlib
-- Data Cleaning and Preprocessing
-- GitHub for Project Management
+- GitHub Version Control
+- Real-world Data Analysis
 
 ## 👩‍💻 Author
 
-Sravani Velpula Venkata
-B.Tech CSE (Data Science)
+**Sravani Velpula Venkata**  
+B.Tech – Computer Science & Engineering (Data Science)
+
+---
+⭐ If you found this project useful, feel free to explore the repository!
